@@ -2,8 +2,8 @@
 //  Master_DetailMasterViewController.h
 //  Master-Detail
 //
-//  Created by Charles Konkol on 10/6/13.
-//  Copyright (c) 2013 Chuck Konkol. All rights reserved.
+//  Created by June Scheri on 10/6/13.
+//  Copyright (c) 2013 June Scheri. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
